@@ -1,6 +1,6 @@
 # WWDC 2021 Swift Student Challenge Submissions
 
-List of student submissions for the [WWDC 202q Swift Student Challenge](https://developer.apple.com/wwdc21/swift-student-challenge/).
+List of student submissions for the [WWDC 2021 Swift Student Challenge](https://developer.apple.com/wwdc21/swift-student-challenge/).
 
 To add your own project below, just [edit](https://github.com/wwdc/2021/edit/master/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.
 
