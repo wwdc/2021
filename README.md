@@ -17,6 +17,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mas
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2021)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
+|[Baran Önen](https://github.com/baranonen)|[GitHub](https://github.com/baranonen/WWDC21-Barcodes)||SwiftUI, SpriteKit|Submitted|
 |[Batuhan Karababa](https://github.com/batuhankrbb)|[Github](https://github.com/batuhankrbb/AppleHeroes)|[YouTube](https://www.youtube.com/watch?v=w1ceszjuaco)|SwiftUI|Submitted|
 |[Berkin Ceylan](https://github.com/berkinceylan)|[Github](https://github.com/berkinceylan/WWDC21)||SwiftUI, AVFoundation|Submitted|
 |[Choyi Jeong](https://github.com/iamcho2)|[Github](https://github.com/iamcho2/WWDC-2021)||SwiftUI, SpriteKit|Submitted|
