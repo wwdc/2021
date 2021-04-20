@@ -48,3 +48,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Wenqing Ge](https://github.com/XiaoGeNintendo)|[Github](https://github.com/XiaoGeNintendo/MIST)||SwiftUI, SpriteKit|Submitted|
 |[Wenzheng "William" Du](https://insightfulaiapps.com)|[GitHub](https://github.com/InsightfulAI/recyclingrace)|[YouTube](https://youtu.be/5TcIQGhZ8oc)|CoreML, Vision, AVFoundation, UIKit|Submitted|
 |[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/G6KYe352l7I)|SceneKit, UIKit, ARKit, SwiftUI|Submitted|
+|[Yusuf Berk Çekic](https://yusufberkcekic.com)|[GitHub](https://github.com/YuBeCe/Free-Yourself)|[YouTube](https://www.youtube.com/watch?v=lX_FfeCJBX8)|SwiftUI, SpriteKit|Submitted|
