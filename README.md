@@ -26,7 +26,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mas
 |[Filip Kania](https://github.com/filipkania)|[GitHub](https://github.com/filipkania/getout.)||SceneKit, AVFoundation, AppKit|Submitted|
 |[Furkan Hancı](https://github.com/Furkanus)|[Github](https://github.com/Furkanus/BioShine)||SwiftUI|Submitted|
 |[Haotian Zheng](https://fincher.im/)|[GitHub](https://github.com/JustinFincher/WWDC2021ScholarshipProject)|[YouTube](https://www.youtube.com/watch?v=AT6XDYx_aRg)|ARKit, SceneKit, MetalKit, SwiftUI|Submitted|
-|[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/wwdc21explorer)||SceneKit, UIKit, SwiftUI, Natural Language, Playground Support|Submitted|
+|[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/wwdc21explorer)||SceneKit, UIKit, SwiftUI, Natural Language|Submitted|
 |[Jose Adolfo Talactac](https://twitter.com/devjoseadolfo)|[GitHub](https://github.com/devjoseadolfo/CircuitPlay)|[YouTube](https://youtu.be/pm3mlDZJSes)|SwiftUI, Accelerate, RealityKit, ARKit|Submitted|
 |[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC21SwiftStudentChallenge)||SpriteKit, UIKit, AVFoundation|Submitted|
 |[Oscar Gorog](https://github.com/OscarGorog)|[GitHub](https://github.com/OscarGorog/WWDC21-Playground)||SwiftUI, Combine, RealityKit, AVFoundation|Submitted|
