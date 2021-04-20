@@ -4,7 +4,7 @@ List of student submissions for the [WWDC 2021 Swift Student Challenge](https://
 
 Check out the [YouTube Playlist](https://www.youtube.com/playlist?list=PLZw7eGQJuMjlFtuO2dc1DazkhwaOIgfSo) to watch the submissions.
 
-To add your own project below, just [edit](https://github.com/wwdc/2021/edit/master/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.
+To add your own project below, just [edit](https://github.com/wwdc/2021/edit/main/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.
 
 <!-- PLEASE READ! -->
 <!-- Insert your name below in alphabetical order by first name. -->
