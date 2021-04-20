@@ -51,7 +51,7 @@
             $('.error.indicator .error-message').html(message);
         }
         $(function() {
-            $.get('https://api.github.com/repos/wwdc/2021/git/refs/heads/master')
+            $.get('https://api.github.com/repos/wwdc/2021/git/refs/heads/main')
                 .done(function(data) {
                     const hash = data.object.sha;
                     const url = 'https://cdn.jsdelivr.net/gh/wwdc/2021@' + hash + '/README.md';
