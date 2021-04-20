@@ -18,6 +18,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2021)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
 |[Alperen Örence](https://github.com/alperenorence)|[GitHub](https://github.com/alperenorence/chatbots)||SwiftUI, Combine|Submitted|
+|[Alvin Hsueh](https://www.instagram.com/qazqwe0922/)|[GitHub](https://github.com/HaXAlvin/WWDC21_Hello_World)||SwiftUI, SpriteKit, ARKit, UIKit|Submitted|
 |[Baran Önen](https://github.com/baranonen)|[GitHub](https://github.com/baranonen/WWDC21-Barcodes)||SwiftUI, SpriteKit|Submitted|
 |[Batuhan Karababa](https://github.com/batuhankrbb)|[Github](https://github.com/batuhankrbb/AppleHeroes)|[YouTube](https://www.youtube.com/watch?v=w1ceszjuaco)|SwiftUI|Submitted|
 |[Benjamin Hutter](https://github.com/benjaminhtr)|[GitHub](https://github.com/benjaminhtr/WWDC21)||SwiftUI, SpriteKit, UIKit|Submitted|
