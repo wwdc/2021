@@ -1,4 +1,4 @@
-# WWDC 2021 Swift Student Challenge Submissions
+# [WWDC 2021 Swift Student Challenge Submissions](https://wwdc.github.io/2021)
 
 List of student submissions for the [WWDC 2021 Swift Student Challenge](https://developer.apple.com/wwdc21/swift-student-challenge/).
 
