@@ -37,6 +37,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Roy Rao](https://github.com/RoyRao2333)|[GitHub](https://github.com/RoyRao2333/WWDC21-Apple-Scholarship)||Cocoa, SwiftUI, Combine, AVKit|Submitted|
 |[Seunghun Yang](https://github.com/Yabby1997)|[GitHub](https://github.com/Yabby1997/WWDC21-Swift-Student-Challenge)|[YouTube](https://youtu.be/HVTCB2lDpjg)|SpriteKit, AVFoundation|Submitted|
 |[Swapnanil Dhol](https://github.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Inclusivity)|[YouTube](https://www.youtube.com/watch?v=ELeCD3yY7uU&t=7s)|Vision, SwiftUI, AVKit|Submitted|
+|[Sylvain Guillier](https://github.com/ElChoquito)||[YouTube](https://www.youtube.com/watch?v=MqWFkvcpAMk)|Vision, SwiftUI, AVFoundation|Submitted|
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Hands)||UIKit, AVFoundation, Vision|Submitted|
 |[Wenzheng "William" Du](https://insightfulaiapps.com)|[GitHub](https://github.com/InsightfulAI/recyclingrace)|[YouTube](https://youtu.be/5TcIQGhZ8oc)|CoreML, Vision, AVFoundation, UIKit|Submitted|
 |[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/G6KYe352l7I)|SceneKit, UIKit, ARKit, SwiftUI|Submitted|
