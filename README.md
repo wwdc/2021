@@ -18,10 +18,10 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2021)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
 |[A. Alkan Caner](https://github.com/AlkanCaner)|[GitHub](https://github.com/AlkanCaner/StylizedArt)|[YouTube](https://www.youtube.com/watch?v=V2-lZlgsD1k&t=4s)|SwiftUI, CoreML|Submitted|
+|[Adam Zhao](https://github.com/ZXXZ00)||[YouTube](https://youtu.be/_wrRRgDcfdA)|Accelerate, PencilKit, UIKit|Submitted|
 |[Alperen Örence](https://github.com/alperenorence)|[GitHub](https://github.com/alperenorence/chatbots)||SwiftUI, Combine|Submitted|
 |[Alvin Hsueh](https://www.instagram.com/qazqwe0922/)|[GitHub](https://github.com/HaXAlvin/WWDC21_Hello_World)||SwiftUI, SpriteKit, ARKit, UIKit|Submitted|
-|[Adam Zhao](https://github.com/ZXXZ00)||[YouTube](https://youtu.be/_wrRRgDcfdA)|Accelerate, PencilKit, UIKit|Submitted|
-|[Andrew Z](https://github.com/aheze/)|[GitHub](https://github.com/aheze/AccessibleReality)||SwiftUI, ARKit, Vision|Submitted|
+|[Andrew Z](https://github.com/aheze/)|[GitHub](https://github.com/aheze/AccessibleReality)|[YouTube](https://www.youtube.com/watch?v=BH2HONBJiF0)|SwiftUI, ARKit, Vision|Submitted|
 |[Baran Önen](https://github.com/baranonen)|[GitHub](https://github.com/baranonen/WWDC21-Barcodes)||SwiftUI, SpriteKit|Submitted|
 |[Batuhan Karababa](https://github.com/batuhankrbb)|[Github](https://github.com/batuhankrbb/AppleHeroes)|[YouTube](https://www.youtube.com/watch?v=w1ceszjuaco)|SwiftUI|Submitted|
 |[Benjamin Hutter](https://github.com/benjaminhtr)|[GitHub](https://github.com/benjaminhtr/WWDC21)||SwiftUI, SpriteKit, UIKit|Submitted|
@@ -33,10 +33,13 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Furkan Hancı](https://github.com/Furkanus)|[Github](https://github.com/Furkanus/BioShine)||SwiftUI|Submitted|
 |[Haotian Zheng](https://fincher.im/)|[GitHub](https://github.com/JustinFincher/WWDC2021ScholarshipProject)|[YouTube](https://www.youtube.com/watch?v=AT6XDYx_aRg)|ARKit, SceneKit, MetalKit, SwiftUI|Submitted|
 |[Henri  Bredt](https://github.com/henribredt)|[GitHub](https://github.com/henribredt/UserExperience-WWDC21)||SwiftUI|Submitted|
+|[Javier Gallo Roca](https://twitter.com/Happygallo)|[GitHub](https://github.com/Happygallo/LangtonsAnt.git)|[YouTube](https://youtu.be/gCRG00CTZCo)|SpriteKIt, SwiftUI|Submitted|
 |[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/wwdc21explorer)||SceneKit, UIKit, SwiftUI, Natural Language|Submitted|
+|[João Gabriel](https://twitter.com/joogps)|[GitHub](https://github.com/joogps/WWDC-2021)||SwiftUI, AVFoundation|Submitted|
 |[Jose Adolfo Talactac](https://twitter.com/devjoseadolfo)|[GitHub](https://github.com/devjoseadolfo/CircuitPlay)|[YouTube](https://youtu.be/pm3mlDZJSes)|SwiftUI, Accelerate, RealityKit, ARKit|Submitted|
 |[Julian Schiavo](https://twitter.com/_julianschiavo)|[GitHub](https://github.com/julianschiavo/wwdc/)||AVFoundation, CoreML, SwiftUI, Vision|Submitted|
 |[Kunal Bagaria](https://twitter.com/kb24x7)|[GitHub](https://github.com/kb24x7/wwdc-2021)||AVFoundation, SwiftUI|Submitted|
+|[Niall Kehoe](https://twitter.com/Niall_Kehoe)|[GitHub](https://github.com/niallkehoe/GreatMinds)||SwiftUI, ARKit, RealityKit, SpriteKit|Submitted|
 |[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC21SwiftStudentChallenge)||SpriteKit, UIKit, AVFoundation|Submitted|
 |[Oscar Gorog](https://github.com/OscarGorog)|[GitHub](https://github.com/OscarGorog/WWDC21-Playground)||SwiftUI, Combine, RealityKit, AVFoundation|Submitted|
 |[Peter Yaacoub](https://github.com/Yaacoub)|[GitHub](https://github.com/Yaacoub/Swift-Student-Challenge/tree/master/WWDC%202021)||AVFoundation, CoreMotion, SpriteKit, UIKit|Submitted|
