@@ -21,6 +21,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Adam Zhao](https://github.com/ZXXZ00)||[YouTube](https://youtu.be/_wrRRgDcfdA)|Accelerate, PencilKit, UIKit|Submitted|
 |[Alperen Örence](https://github.com/alperenorence)|[GitHub](https://github.com/alperenorence/chatbots)||SwiftUI, Combine|Submitted|
 |[Alvin Hsueh](https://www.instagram.com/qazqwe0922/)|[GitHub](https://github.com/HaXAlvin/WWDC21_Hello_World)||SwiftUI, SpriteKit, ARKit, UIKit|Submitted|
+|[Anant Kanchan](https://github.com/anantcodes)|[GitHub](https://github.com/anantcodes/NaviOS)||SwiftUI|Submitted|
 |[Andrew Z](https://github.com/aheze/)|[GitHub](https://github.com/aheze/AccessibleReality)|[YouTube](https://www.youtube.com/watch?v=BH2HONBJiF0)|SwiftUI, ARKit, Vision|Submitted|
 |[Baran Önen](https://github.com/baranonen)|[GitHub](https://github.com/baranonen/WWDC21-Barcodes)||SwiftUI, SpriteKit|Submitted|
 |[Batuhan Karababa](https://github.com/batuhankrbb)|[Github](https://github.com/batuhankrbb/AppleHeroes)|[YouTube](https://www.youtube.com/watch?v=w1ceszjuaco)|SwiftUI|Submitted|
