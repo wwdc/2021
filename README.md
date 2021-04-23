@@ -50,6 +50,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Nathaniel Fargo](https://paradox42.tech)|[Github](https://github.com/theParadox42/Relativity)||SpriteKit, SceneKit|Submitted|
 |[Niall Kehoe](https://twitter.com/Niall_Kehoe)|[GitHub](https://github.com/niallkehoe/GreatMinds)|[YouTube](https://www.youtube.com/watch?v=_m4rY34BQbM)|SwiftUI, ARKit, RealityKit, SpriteKit|Submitted|
 |[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC21SwiftStudentChallenge)||SpriteKit, UIKit, AVFoundation|Submitted|
+|[Omar Abusharar](http://github.com/omartheturtle)||[Youtube](https://youtu.be/fo5AtVe_PJk)|SwiftUI|Submitted|
 |[Oscar Gorog](https://github.com/OscarGorog)|[GitHub](https://github.com/OscarGorog/WWDC21-Playground)||SwiftUI, Combine, RealityKit, AVFoundation|Submitted|
 |[Peter Yaacoub](https://github.com/Yaacoub)|[GitHub](https://github.com/Yaacoub/Swift-Student-Challenge/tree/master/WWDC%202021)||AVFoundation, CoreMotion, SpriteKit, UIKit|Submitted|
 |[Roy Rao](https://github.com/RoyRao2333)|[GitHub](https://github.com/RoyRao2333/WWDC21-Apple-Scholarship)||Cocoa, SwiftUI, Combine, AVKit|Submitted|
