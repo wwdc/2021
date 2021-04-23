@@ -67,3 +67,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/G6KYe352l7I)|SceneKit, UIKit, ARKit, SwiftUI|Submitted|
 |[Yusuf Berk Çekic](https://yusufberkcekic.com)|[GitHub](https://github.com/YuBeCe/Free-Yourself)|[YouTube](https://www.youtube.com/watch?v=lX_FfeCJBX8)|SwiftUI, SpriteKit|Submitted|
 |[Zachary Lineman](https://actuallyzach.com)||[YouTube](https://www.youtube.com/watch?v=qPPdZWZiEEY)|SwiftUI, UIKit, Genetic Algorithms|Submitted|
+|[Nguyen (Zoey) Vu](https://github.com/ThanhNguyenVu)|[GitHub](https://github.com/ThanhNguyenVu/Meal-WWDC21)||SwiftUI, AVFoundation|Submitted|
