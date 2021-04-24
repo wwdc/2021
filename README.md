@@ -26,6 +26,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Baran Önen](https://github.com/baranonen)|[GitHub](https://github.com/baranonen/WWDC21-Barcodes)||SwiftUI, SpriteKit|Submitted|
 |[Batuhan Karababa](https://github.com/batuhankrbb)|[Github](https://github.com/batuhankrbb/AppleHeroes)|[YouTube](https://www.youtube.com/watch?v=w1ceszjuaco)|SwiftUI|Submitted|
 |[Benjamin Hutter](https://github.com/benjaminhtr)|[GitHub](https://github.com/benjaminhtr/WWDC21)||SwiftUI, SpriteKit, UIKit|Submitted|
+|[Benji Burgess](https://twitter.com/benj_io)|[GitHub](https://github.com/benjiburgess/wwdc21)||SwiftUI|Submitted|
 |[Berkin Ceylan](https://github.com/berkinceylan)|[Github](https://github.com/berkinceylan/WWDC21)||SwiftUI, AVFoundation|Submitted|
 |[Can Balkaya](https://github.com/canbalkaya)|[Github](https://github.com/canbalkaya/Machine-Dreams-WWDC21)||ARKit, SceneKit, CoreML, SwiftUI |Submitted|
 |[Choyi Jeong](https://github.com/iamcho2)|[Github](https://github.com/iamcho2/WWDC-2021)||SwiftUI, SpriteKit|Submitted|
