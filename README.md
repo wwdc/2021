@@ -46,6 +46,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Joe Naveau](https://twitter.com/joenaveau)||[YouTube](https://www.youtube.com/watch?v=3pef6mkJGJc&list=PLZw7eGQJuMjlFtuO2dc1DazkhwaOIgfSo&index=36&t=1s)|SpriteKit, AVFoundation|Submitted|
 |[Jose Adolfo Talactac](https://twitter.com/devjoseadolfo)|[GitHub](https://github.com/devjoseadolfo/CircuitPlay)|[YouTube](https://youtu.be/pm3mlDZJSes)|SwiftUI, Accelerate, RealityKit, ARKit|Submitted|
 |[Julian Schiavo](https://twitter.com/_julianschiavo)|[GitHub](https://github.com/julianschiavo/wwdc/)||AVFoundation, CoreML, SwiftUI, Vision|Submitted|
+|[Juliano Vaz](https://www.github.com/julianoctvaz/)|[Github](https://www.github.com/julianoctvaz/jardimHarmonico)||UIKit, AVFoundation |Submitted|
 |[Jun (June) Murakami](https://github.com/juneforceone)|[GitHub](https://github.com/juneforceone/iRecognizer)|[YouTube](https://youtu.be/9_jidssBG9c)|SwiftUI, CoreML, ARKit|Submitted|
 |[Kunal Bagaria](https://twitter.com/kb24x7)|[GitHub](https://github.com/kb24x7/wwdc-2021)||AVFoundation, SwiftUI|Submitted|
 |[Liam Rosenfeld](https://twitter.com/liamrosenfeld)|[GitHub](https://github.com/liamrosenfeld/SeamCarving)||Metal, CoreGraphics, Accelerate, SwiftUI|Submitted|
@@ -75,4 +76,5 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/G6KYe352l7I)|SceneKit, UIKit, ARKit, SwiftUI|Submitted|
 |[Yusuf Berk Çekic](https://yusufberkcekic.com)|[GitHub](https://github.com/YuBeCe/Free-Yourself)|[YouTube](https://www.youtube.com/watch?v=lX_FfeCJBX8)|SwiftUI, SpriteKit|Submitted|
 |[Zachary Lineman](https://actuallyzach.com)||[YouTube](https://www.youtube.com/watch?v=qPPdZWZiEEY)|SwiftUI, UIKit, Genetic Algorithms|Submitted|
+
 
