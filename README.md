@@ -53,6 +53,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Julian Schiavo](https://twitter.com/_julianschiavo)|[GitHub](https://github.com/julianschiavo/wwdc/)||AVFoundation, CoreML, SwiftUI, Vision|Submitted|
 |[Juliano Vaz](https://www.github.com/julianoctvaz/)|[Github](https://www.github.com/julianoctvaz/jardimHarmonico)||UIKit, AVFoundation |Submitted|
 |[Jun (June) Murakami](https://github.com/juneforceone)|[GitHub](https://github.com/juneforceone/iRecognizer)|[YouTube](https://youtu.be/9_jidssBG9c)|SwiftUI, CoreML, ARKit|Submitted|
+|[Junaid Abdurahman](https://twitter.com/junaidxabd)||[YouTube](https://youtu.be/GUCHvjWpotY)|UIKit, CoreML, QuartzCore|Submitted|
 |[Kunal Bagaria](https://twitter.com/kb24x7)|[GitHub](https://github.com/kb24x7/wwdc-2021)||AVFoundation, SwiftUI|Submitted|
 |[Liam Rosenfeld](https://twitter.com/liamrosenfeld)|[GitHub](https://github.com/liamrosenfeld/SeamCarving)||Metal, CoreGraphics, Accelerate, SwiftUI|Submitted|
 |[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/The-ADHD-Exploration-WWDC21)||SwiftUI, Combine, PhotosUI|Submitted|
