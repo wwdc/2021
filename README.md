@@ -27,7 +27,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Andrew Z](https://github.com/aheze/)|[GitHub](https://github.com/aheze/AccessibleReality)|[YouTube](https://www.youtube.com/watch?v=BH2HONBJiF0)|SwiftUI, ARKit, Vision|Accepted|
 |[Arjun Dureja](https://github.com/arjun-dureja)|[GitHub](https://github.com/arjun-dureja/WWDC21-Swift-Student-Challenge)|[YouTube](https://www.youtube.com/watch?v=BNntCgua848)|UIKit|Accepted|
 |[Atulya Weise](https://atulya.me)|[GitHub](https://github.com/atultw/physics-swift)||SpriteKit, SwiftUI|Submitted|
-|[Baran Önen](https://github.com/baranonen)|[GitHub](https://github.com/baranonen/WWDC21-Barcodes)||SwiftUI, SpriteKit|Submitted|
+|[Baran Önen](https://github.com/baranonen)|[GitHub](https://github.com/baranonen/WWDC21-Barcodes)||SwiftUI, SpriteKit|Accepted|
 |[Batuhan Karababa](https://github.com/batuhankrbb)|[Github](https://github.com/batuhankrbb/AppleHeroes)|[YouTube](https://www.youtube.com/watch?v=w1ceszjuaco)|SwiftUI|Submitted|
 |[Benjamin Hutter](https://github.com/benjaminhtr)|[GitHub](https://github.com/benjaminhtr/WWDC21)||SwiftUI, SpriteKit, UIKit|Submitted|
 |[Benji Burgess](https://twitter.com/benj_io)|[GitHub](https://github.com/benjiburgess/wwdc21)||SwiftUI|Submitted|
