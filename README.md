@@ -73,6 +73,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Peter Yaacoub](https://github.com/Yaacoub)|[GitHub](https://github.com/Yaacoub/Swift-Student-Challenge/tree/master/WWDC%202021)||AVFoundation, CoreMotion, SpriteKit, UIKit|Submitted|
 |[Prajwal Kulkarni](https://twitter.com/prajwalinbizz)|[GitHub](https://github.com/prajwalkulkarni/WWDC21)|[YouTube](https://youtu.be/GgATVEkmmKI)|AVFoundation, SpriteKit, SwiftUI, UIKit|Submitted|
 |[Riccardo Persello](https://github.com/persello)|[GitHub](https://github.com/persello/ssc21)||Accelerate|Submitted|
+|[Riku Arakawa](https://github.com/rikulh)|[GitHub](https://github.com/rikulh/Ohajiki)||SwiftUI, SpriteKit|Rejected|
 |[Rodrigo Matos](https://github.com/Rudigus)|[GitHub](https://github.com/Rudigus/shaderland)||SceneKit, SpriteKit, UIKit|Submitted|
 |[Roy Rao](https://github.com/RoyRao2333)|[GitHub](https://github.com/RoyRao2333/WWDC21-Apple-Scholarship)||Cocoa, SwiftUI, Combine, AVKit|Submitted|
 |[Ryan Du](https://github.com/ryendu) | [Github](https://github.com/ryendu/exploring-ml) |[Youtube](https://youtu.be/K9yRi89Ub5U)|SwiftUI, SpriteKit|Submitted|
