@@ -85,7 +85,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Shengjiu Shi](https://github.com/John-ssj)|[GitHub](https://github.com/John-ssj/WWDC2021)||UIKit, SpriteKit|Submitted|
 |[Shengyuan Lu](https://www.linkedin.com/in/shengyuan-lu)|[GitHub](https://github.com/shengyuan-lu/Virtual-RC-Racer-App)|[YouTube](https://youtu.be/dY1R0TIHwjY)|SwiftUI, ARKit, SceneKit, CoreMotion|Accepted|
 |[Subhronil Saha](https://github.com/subhronilsaha)|[GitHub](https://github.com/subhronilsaha/wwdc-21-submission)|[YouTube](https://www.youtube.com/watch?v=uFCORfnsnzw)|SwiftUI, AVKit|Submitted|
-|[Swapnanil Dhol](https://github.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Inclusivity)|[YouTube](https://www.youtube.com/watch?v=ELeCD3yY7uU&t=7s)|Vision, SwiftUI, AVKit|Submitted|
+|[Swapnanil Dhol](https://github.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Inclusivity)|[YouTube](https://www.youtube.com/watch?v=ELeCD3yY7uU&t=7s)|Vision, SwiftUI, AVKit|Accepted|
 |[Sylvain Guillier](https://github.com/ElChoquito)||[YouTube](https://www.youtube.com/watch?v=MqWFkvcpAMk)|Vision, SwiftUI, AVFoundation|Submitted|
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Hands)||UIKit, AVFoundation, Vision|Submitted|
 |[Viggo Overes](https://twitter.com/viggooveres)|[Github](https://github.com/vxvrs/wwdc21-CellularAutomaton)||UIKit|Submitted|
