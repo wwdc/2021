@@ -20,7 +20,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[A. Alkan Caner](https://github.com/AlkanCaner)|[GitHub](https://github.com/AlkanCaner/StylizedArt)|[YouTube](https://www.youtube.com/watch?v=V2-lZlgsD1k&t=4s)|SwiftUI, CoreML|Submitted|
 |[Adam Zhao](https://github.com/ZXXZ00)||[YouTube](https://youtu.be/_wrRRgDcfdA)|Accelerate, PencilKit, UIKit|Submitted|
 |[Alperen Örence](https://github.com/alperenorence)|[GitHub](https://github.com/alperenorence/chatbots)||SwiftUI, Combine|Submitted|
-|[Alvin Hsueh](https://www.instagram.com/qazqwe0922/)|[GitHub](https://github.com/HaXAlvin/WWDC21_Hello_World)||SwiftUI, SpriteKit, ARKit, UIKit|Submitted|
+|[Alvin Hsueh](https://www.instagram.com/qazqwe0922/)|[GitHub](https://github.com/HaXAlvin/WWDC21_Hello_World)||SwiftUI, SpriteKit, ARKit, UIKit|Accepted|
 |[Anant Kanchan](https://github.com/anantcodes)|[GitHub](https://github.com/anantcodes/NaviOS)||SwiftUI|Submitted|
 |[Andrew Z](https://github.com/aheze/)|[GitHub](https://github.com/aheze/AccessibleReality)|[YouTube](https://www.youtube.com/watch?v=BH2HONBJiF0)|SwiftUI, ARKit, Vision|Submitted|
 |[Atulya Weise](https://atulya.me)|[GitHub](https://github.com/atultw/physics-swift)||SpriteKit, SwiftUI|Submitted|
