@@ -90,7 +90,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Viggo Overes](https://twitter.com/viggooveres)|[Github](https://github.com/vxvrs/wwdc21-CellularAutomaton)||UIKit|Submitted|
 |[Wenqing Ge](https://github.com/XiaoGeNintendo)|[Github](https://github.com/XiaoGeNintendo/MIST)||SwiftUI, SpriteKit|Submitted|
 |[Wenzheng "William" Du](https://insightfulaiapps.com)|[GitHub](https://github.com/InsightfulAI/recyclingrace)|[YouTube](https://youtu.be/5TcIQGhZ8oc)|CoreML, Vision, AVFoundation, UIKit|Submitted|
-|[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/G6KYe352l7I)|SceneKit, UIKit, ARKit, SwiftUI|Submitted|
+|[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/G6KYe352l7I)|SceneKit, UIKit, ARKit, SwiftUI|Accepted|
 |[Yauheni Stsefankou](https://www.instagram.com/stefjen07)|[GitHub](https://github.com/stefjen07/WWDC21-4DVisualization)||SceneKit|Accepted|
 |[Yuma Soerianto](http://madebyyuma.com)||[YouTube](https://www.youtube.com/watch?v=Hyd1orSpdxA)|ARKit, SceneKit, SwiftUI, UIKit, CoreML|Accepted|
 |[Yusuf Berk Çekic](https://yusufberkcekic.com)|[GitHub](https://github.com/YuBeCe/Free-Yourself)|[YouTube](https://www.youtube.com/watch?v=lX_FfeCJBX8)|SwiftUI, SpriteKit|Submitted|
