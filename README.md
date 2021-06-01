@@ -45,7 +45,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Henri  Bredt](https://github.com/henribredt)|[GitHub](https://github.com/henribredt/UserExperience-WWDC21)||SwiftUI|Submitted|
 |[Ibrahim Berat Kaya](https://github.com/iberatkaya)|[GitHub](https://github.com/iberatkaya/wwdc21)|[YouTube](https://www.youtube.com/watch?v=AhJjLU_ENXs)|SwiftUI|Submitted|
 |[Javier Gallo Roca](https://twitter.com/Happygallo)|[GitHub](https://github.com/Happygallo/LangtonsAnt.git)|[YouTube](https://youtu.be/gCRG00CTZCo)|SpriteKIt, SwiftUI|Submitted|
-|[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/wwdc21explorer)||SceneKit, UIKit, SwiftUI, Natural Language|Submitted|
+|[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/wwdc21explorer)||SceneKit, UIKit, SwiftUI, Natural Language|Accepted|
 |[Jimmy Tan](https://www.linkedin.com/chatin/wnc/in/jianhui-jimmy-tan-6b2595175)|[GitHub](https://github.com/JimmyTan823/wwdc)|[YouTube](https://www.youtube.com/watch?v=hwe_fkz52fs)|SwiftUI, AVFoundation|Submitted|
 |[João Carlos Magalhães](https://www.youtube.com/channel/UCDNFUQY2XT44NXXZj7-oG-g)|[GitHub](https://github.com/joaocarlos-mag/WWDC-2021-Scholarship-Submission)||UIKit, SpriteKit, SceneKit, Accelerate|Submitted|
 |[João Gabriel](https://twitter.com/joogps)|[GitHub](https://github.com/joogps/WWDC-2021)||SwiftUI, AVFoundation|Submitted|
