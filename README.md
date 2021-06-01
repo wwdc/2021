@@ -61,7 +61,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Junaid Abdurahman](https://twitter.com/junaidxabd)||[YouTube](https://youtu.be/GUCHvjWpotY)|UIKit, CoreML, QuartzCore|Submitted|
 |[Kunal Bagaria](https://twitter.com/kb24x7)|[GitHub](https://github.com/kb24x7/wwdc-2021)||AVFoundation, SwiftUI|Rejected|
 |[Liam Rosenfeld](https://twitter.com/liamrosenfeld)|[GitHub](https://github.com/liamrosenfeld/SeamCarving)||Metal, CoreGraphics, Accelerate, SwiftUI|Submitted|
-|[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/The-ADHD-Exploration-WWDC21)||SwiftUI, Combine, PhotosUI|Submitted|
+|[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/The-ADHD-Exploration-WWDC21)||SwiftUI, Combine, PhotosUI|Accepted|
 |[Makwan Barzan](https://twitter.com/makwanbk)|[GitHub](https://github.com/m1bki0n/Kazhe)||SwiftUI, AVFoundation|Submitted|
 |[Matheus S. Moreira](https://github.com/matheussmoreira)|[GitHub](https://github.com/matheussmoreira/Squance)||SwiftUI|Submitted|
 |[Matheus Andrade](https://github.com/matheusvtna)|[GitHub](https://github.com/matheusvtna/Mixed-Juice)||SwiftUI, AVKit|Submitted|
