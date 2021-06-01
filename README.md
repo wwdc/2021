@@ -44,6 +44,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Federico Ciardi](https://github.com/fedeci)|[GitHub](https://github.com/fedeci/WWDC2021)||SceneKit, SpriteKit, AVFoundation, Combine|Accepted|
 |[Filip Kania](https://github.com/filipkania)|[GitHub](https://github.com/filipkania/getout.)||SceneKit, AVFoundation, AppKit|Rejected|
 |[Furkan Hancı](https://github.com/Furkanus)|[Github](https://github.com/Furkanus/BioShine)||SwiftUI|Rejected|
+|[Garima Bothra](https://github.com/garima94921)|[GitHub](https://github.com/garima94921/DoubleSpending-WWDC21)||CryptoKit, SwiftUI|Accepted|
 |[Garv Shah](https://github.com/garv-shah)|[GitHub](https://github.com/garv-shah/WWDC21-Galton-Board)||SpriteKit, UIKit|Accepted|
 |[Haobo Xu](https://haoboxuxu.github.io)|[GitHub](https://github.com/haoboxuxu/WWDC2021-TheHackOfRayTracing)|[YouTube](https://youtu.be/LqT7yQC8kk4)|MetalKit, Ray-Tracing algorithms|Submitted|
 |[Haotian Zheng](https://fincher.im/)|[GitHub](https://github.com/JustinFincher/WWDC2021ScholarshipProject)|[YouTube](https://www.youtube.com/watch?v=AT6XDYx_aRg)|ARKit, SceneKit, MetalKit, SwiftUI|Rejected|
