@@ -44,6 +44,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Haotian Zheng](https://fincher.im/)|[GitHub](https://github.com/JustinFincher/WWDC2021ScholarshipProject)|[YouTube](https://www.youtube.com/watch?v=AT6XDYx_aRg)|ARKit, SceneKit, MetalKit, SwiftUI|Submitted|
 |[Henri  Bredt](https://github.com/henribredt)|[GitHub](https://github.com/henribredt/UserExperience-WWDC21)||SwiftUI|Submitted|
 |[Ibrahim Berat Kaya](https://github.com/iberatkaya)|[GitHub](https://github.com/iberatkaya/wwdc21)|[YouTube](https://www.youtube.com/watch?v=AhJjLU_ENXs)|SwiftUI|Submitted|
+|[Jan Luca Siewert](https://jl-siewert.de/about)|[GitHub](https://github.com/jlsiewert/SwiftAR)|[YouTube](https://youtu.be/3GeFRthFBs8)|ARKit, SceneKit, SwiftUI|Accepted|
 |[Javier Gallo Roca](https://twitter.com/Happygallo)|[GitHub](https://github.com/Happygallo/LangtonsAnt.git)|[YouTube](https://youtu.be/gCRG00CTZCo)|SpriteKIt, SwiftUI|Submitted|
 |[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/wwdc21explorer)||SceneKit, UIKit, SwiftUI, Natural Language|Submitted|
 |[Jimmy Tan](https://www.linkedin.com/chatin/wnc/in/jianhui-jimmy-tan-6b2595175)|[GitHub](https://github.com/JimmyTan823/wwdc)|[YouTube](https://www.youtube.com/watch?v=hwe_fkz52fs)|SwiftUI, AVFoundation|Submitted|
