@@ -34,6 +34,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Can Balkaya](https://github.com/canbalkaya)|[Github](https://github.com/canbalkaya/Machine-Dreams-WWDC21)||ARKit, SceneKit, CoreML, SwiftUI |Submitted|
 |[Choyi Jeong](https://github.com/iamcho2)|[Github](https://github.com/iamcho2/WWDC-2021)||SwiftUI, SpriteKit|Submitted|
 |[Corentin Medina](https://twitter.com/Elfyro)|[Github](https://github.com/CorentiOS/WWDC2021)|[Youtube](https://www.youtube.com/watch?v=IRqJCoCRcs4)|SpriteKit, GameplayKit, AVFoundation|Submitted|
+|[Chong Zhuang Hong]|[Github](https://github.com/ZhuangHong-C/wwdc21_brainstorm)|SpritKit, AVFoundation, CoreML|Rejected|
 |[Deniz Karakay](https://twitter.com/KarakayDeniz)|[GitHub](https://github.com/dkarakay/wwdc-2021-perfec0)||SpriteKit, AVFoundation, SwiftUI, UIKit|Submitted|
 |[Dhanraj Chavan](https://twitter.com/codingpotter)|[GitHub](https://github.com/dhanrajdc7/CryptoCam)|[YouTube](https://youtu.be/gMEdtcLDdGU)|UIKit, Vision, AVFoundation|Submitted|
 |[Don Chia](https://donchia.tech)|[GitHub](https://github.com/dhs17y2adonchia/WWDC2021)||SwiftUI, UIKit, WKWebView|Accepted|
