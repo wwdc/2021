@@ -30,7 +30,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Benjamin Hutter](https://github.com/benjaminhtr)|[GitHub](https://github.com/benjaminhtr/WWDC21)||SwiftUI, SpriteKit, UIKit|Submitted|
 |[Benji Burgess](https://twitter.com/benj_io)|[GitHub](https://github.com/benjiburgess/wwdc21)||SwiftUI|Submitted|
 |[Berkin Ceylan](https://github.com/berkinceylan)|[Github](https://github.com/berkinceylan/WWDC21)||SwiftUI, AVFoundation|Submitted|
-|[Bryanza Novirahman](https://github.com/bryanzanr)|[GitHub](https://github.com/bryanzanr/skipper)|[YouTube](https://youtu.be/rUaxRIN6_CE)|SwiftUI|Submitted|
+|[Bryanza Novirahman](https://github.com/bryanzanr)|[GitHub](https://github.com/bryanzanr/skipper)|[YouTube](https://youtu.be/rUaxRIN6_CE)|SwiftUI|Rejected|
 |[Can Balkaya](https://github.com/canbalkaya)|[Github](https://github.com/canbalkaya/Machine-Dreams-WWDC21)||ARKit, SceneKit, CoreML, SwiftUI |Submitted|
 |[Choyi Jeong](https://github.com/iamcho2)|[Github](https://github.com/iamcho2/WWDC-2021)||SwiftUI, SpriteKit|Submitted|
 |[Corentin Medina](https://twitter.com/Elfyro)|[Github](https://github.com/CorentiOS/WWDC2021)|[Youtube](https://www.youtube.com/watch?v=IRqJCoCRcs4)|SpriteKit, GameplayKit, AVFoundation|Submitted|
