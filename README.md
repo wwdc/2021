@@ -44,6 +44,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Erick Almeida](https://github.com/erick2280)|[GitHub](https://github.com/erick2280/dines-donkey-playground)||SwiftUI|Submitted|
 |[Federico Ciardi](https://github.com/fedeci)|[GitHub](https://github.com/fedeci/WWDC2021)||SceneKit, SpriteKit, AVFoundation, Combine|Accepted|
 |[Filip Kania](https://github.com/filipkania)|[GitHub](https://github.com/filipkania/getout.)||SceneKit, AVFoundation, AppKit|Rejected|
+|[Fred P](https://github.com/fredpi)|[GitHub](https://github.com/fredpi/WWDC2021)||UIKit, Core Animation, Core Graphics|Accepted|
 |[Furkan Hancı](https://github.com/Furkanus)|[Github](https://github.com/Furkanus/BioShine)||SwiftUI|Rejected|
 |[Garima Bothra](https://github.com/garima94921)|[GitHub](https://github.com/garima94921/DoubleSpending-WWDC21)||CryptoKit, SwiftUI|Accepted|
 |[Garv Shah](https://github.com/garv-shah)|[GitHub](https://github.com/garv-shah/WWDC21-Galton-Board)||SpriteKit, UIKit|Accepted|
