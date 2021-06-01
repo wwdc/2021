@@ -74,7 +74,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/WWDC2021)||ARKit, SceneKit, AVFoundation, SwiftUI, UIKit|Submitted|
 |[Seunghun Yang](https://github.com/Yabby1997)|[GitHub](https://github.com/Yabby1997/WWDC21-Swift-Student-Challenge)|[YouTube](https://youtu.be/HVTCB2lDpjg)|SpriteKit, AVFoundation|Submitted|
 |[Shengjiu Shi](https://github.com/John-ssj)|[GitHub](https://github.com/John-ssj/WWDC2021)||UIKit, SpriteKit|Submitted|
-|[Shengyuan Lu](https://www.linkedin.com/in/shengyuan-lu)|[GitHub](https://github.com/shengyuan-lu/Virtual-RC-Racer-App)|[YouTube](https://youtu.be/dY1R0TIHwjY)|SwiftUI, ARKit, SceneKit, CoreMotion|Accepted|
+|[Shengyuan Lu](https://www.linkedin.com/in/shengyuan-lu)||[YouTube](https://youtu.be/dY1R0TIHwjY)|SwiftUI, ARKit, SceneKit, CoreMotion|Accepted|
 |[Subhronil Saha](https://github.com/subhronilsaha)|[GitHub](https://github.com/subhronilsaha/wwdc-21-submission)|[YouTube](https://www.youtube.com/watch?v=uFCORfnsnzw)|SwiftUI, AVKit|Submitted|
 |[Swapnanil Dhol](https://github.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Inclusivity)|[YouTube](https://www.youtube.com/watch?v=ELeCD3yY7uU&t=7s)|Vision, SwiftUI, AVKit|Submitted|
 |[Sylvain Guillier](https://github.com/ElChoquito)||[YouTube](https://www.youtube.com/watch?v=MqWFkvcpAMk)|Vision, SwiftUI, AVFoundation|Submitted|
