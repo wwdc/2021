@@ -66,7 +66,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Matheus Andrade](https://github.com/matheusvtna)|[GitHub](https://github.com/matheusvtna/Mixed-Juice)||SwiftUI, AVKit|Submitted|
 |[Nathaniel Fargo](https://paradox42.tech)|[Github](https://github.com/theParadox42/Relativity)||SpriteKit, SceneKit|Submitted|
 |[Nguyen (Zoey) Vu](https://github.com/ThanhNguyenVu)|[GitHub](https://github.com/ThanhNguyenVu/Meal-WWDC21)||SwiftUI, AVFoundation|Submitted|
-|[Niall Kehoe](https://twitter.com/Niall_Kehoe)|[GitHub](https://github.com/niallkehoe/GreatMinds)|[YouTube](https://www.youtube.com/watch?v=_m4rY34BQbM)|SwiftUI, ARKit, RealityKit, SpriteKit|Submitted|
+|[Niall Kehoe](https://twitter.com/Niall_Kehoe)|[GitHub](https://github.com/niallkehoe/GreatMinds)|[YouTube](https://www.youtube.com/watch?v=_m4rY34BQbM)|SwiftUI, ARKit, RealityKit, SpriteKit|Accepted|
 |[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC21SwiftStudentChallenge)||SpriteKit, UIKit, AVFoundation|Submitted|
 |[Omar Abusharar](http://github.com/omartheturtle)||[Youtube](https://youtu.be/fo5AtVe_PJk)|SwiftUI|Submitted|
 |[Oscar Gorog](https://github.com/OscarGorog)|[GitHub](https://github.com/OscarGorog/WWDC21-Playground)||SwiftUI, Combine, RealityKit, AVFoundation|Submitted|
