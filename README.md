@@ -24,6 +24,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Anant Kanchan](https://github.com/anantcodes)|[GitHub](https://github.com/anantcodes/NaviOS)||SwiftUI|Accepted|
 |[Anav Mehta](http://3dwaffles.blogspot.com)|[GitHub](https://github.com/anavmehta/ChessRealityPlaygroundBook)|[YouTube](https://youtu.be/tLK6NKbC-NQ)|RealityKit, AVKit, RealityComposer|Accepted|
 |[Andrean Lay](https://github.com/andreanlay)|[GitHub](https://github.com/andreanlay/jebot-wwdc21)||SwiftUI, AVFoundation|Accepted|
+|[Andrew Glen](https://github.com/nanothread)|[GitHub](https://github.com/nanothread/Functional-Programming-With-Physics)||SpriteKit, SwiftUI|Accepted|
 |[Andrew Z](https://github.com/aheze/)|[GitHub](https://github.com/aheze/AccessibleReality)|[YouTube](https://www.youtube.com/watch?v=BH2HONBJiF0)|SwiftUI, ARKit, Vision|Accepted|
 |[Arjun Dureja](https://github.com/arjun-dureja)|[GitHub](https://github.com/arjun-dureja/WWDC21-Swift-Student-Challenge)|[YouTube](https://www.youtube.com/watch?v=BNntCgua848)|UIKit|Accepted|
 |[Atulya Weise](https://atulya.me)|[GitHub](https://github.com/atultw/physics-swift)||SpriteKit, SwiftUI|Submitted|
