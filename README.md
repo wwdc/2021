@@ -67,6 +67,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[João Gabriel](https://twitter.com/joogps)|[GitHub](https://github.com/joogps/WWDC-2021)||SwiftUI, AVFoundation|Accepted|
 |[Joe Naveau](https://twitter.com/joenaveau)||[YouTube](https://www.youtube.com/watch?v=3pef6mkJGJc&list=PLZw7eGQJuMjlFtuO2dc1DazkhwaOIgfSo&index=36&t=1s)|SpriteKit, AVFoundation|Submitted|
 |[Jose Adolfo Talactac](https://twitter.com/devjoseadolfo)|[GitHub](https://github.com/devjoseadolfo/CircuitPlay)|[YouTube](https://youtu.be/pm3mlDZJSes)|SwiftUI, Accelerate, RealityKit, ARKit|Accepted|
+|[Julian Benedikt Heuschen](https://twitter.com/HeuschenJ)|[GitHub](https://github.com/jbheuschen/Cryptography)||SwiftUI, Security, CryptoKit, CommonCrypto, UIKit|Accepted|
 |[Julian Schiavo](https://twitter.com/_julianschiavo)|[GitHub](https://github.com/julianschiavo/wwdc/)||AVFoundation, CoreML, SwiftUI, Vision|Accepted|
 |[Juliano Vaz](https://www.github.com/julianoctvaz/)|[Github](https://www.github.com/julianoctvaz/jardimHarmonico)||UIKit, AVFoundation |Submitted|
 |[Jun (June) Murakami](https://github.com/juneforceone)|[GitHub](https://github.com/juneforceone/iRecognizer)|[YouTube](https://youtu.be/9_jidssBG9c)|SwiftUI, CoreML, ARKit|Submitted|
