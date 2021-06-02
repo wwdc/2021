@@ -113,6 +113,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Wenzheng "William" Du](https://insightfulaiapps.com)|[GitHub](https://github.com/InsightfulAI/recyclingrace)|[YouTube](https://youtu.be/5TcIQGhZ8oc)|CoreML, Vision, AVFoundation, UIKit|Accepted|
 |[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/G6KYe352l7I)|SceneKit, UIKit, ARKit, SwiftUI|Accepted|
 |[Xinyi Xiang](https://github.com/xinyixiang)|[GitHub](https://github.com/xinyixiang/Rubikat)||SwiftUI, Foundation,Combine|Accepted|
+|[Ya Zou](https://github.com/ZouYa99)|[GitHub](https://github.com/ZouYa99/PitchBlock)|[YouTube](https://youtu.be/15ncJPaBK2M)|Accelerate, UIKit, SpriteKit, AVFoundation|Accepted|
 |[Yauheni Stsefankou](https://www.instagram.com/stefjen07)|[GitHub](https://github.com/stefjen07/WWDC21-4DVisualization)||SceneKit|Accepted|
 |[Yugantar Jain](https://twitter.com/yugantar8)|[GitHub](https://github.com/yugantarjain/wwdc21)||SwiftUI, SpriteKit, AVFoundation|Accepted|
 |[Yuma Soerianto](http://madebyyuma.com)||[YouTube](https://www.youtube.com/watch?v=Hyd1orSpdxA)|ARKit, SceneKit, SwiftUI, UIKit, CoreML|Accepted|
