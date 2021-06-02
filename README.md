@@ -88,7 +88,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Omar Abusharar](http://github.com/omartheturtle)||[Youtube](https://youtu.be/fo5AtVe_PJk)|SwiftUI|Submitted|
 |[Oscar Gorog](https://github.com/OscarGorog)|[GitHub](https://github.com/OscarGorog/WWDC21-Playground)||SwiftUI, Combine, RealityKit, AVFoundation|Rejected|
 |Ozan Mirza|[GitHub](https://github.com/ozanm/WWDC-2021-Neural-Networks)||UIKit, CoreGraphics, Accelerate|Accepted|
-|[Peter Yaacoub](https://github.com/Yaacoub)|[GitHub](https://github.com/Yaacoub/Swift-Student-Challenge/tree/master/WWDC%202021)||AVFoundation, CoreMotion, SpriteKit, UIKit|Accepted|
+|[Peter Yaacoub](https://github.com/Yaacoub)|[GitHub](https://github.com/Yaacoub/Swift-Student-Challenge/tree/master/WWDC%202021)|[YouTube](https://youtu.be/pjSYAEYOPhk)|AVFoundation, CoreMotion, SpriteKit, UIKit|Accepted|
 |[Prajwal Kulkarni](https://twitter.com/prajwalinbizz)|[GitHub](https://github.com/prajwalkulkarni/WWDC21)|[YouTube](https://youtu.be/GgATVEkmmKI)|AVFoundation, SpriteKit, SwiftUI, UIKit|Submitted|
 |[Riccardo Persello](https://github.com/persello)|[GitHub](https://github.com/persello/ssc21)||Accelerate|Accepted|
 |[Richard Qi Zhi](https://twitter.com/riccqi)|[GitHub](https://github.com/riccqi/Encryption-Book)||CryptoKit, SpriteKit, SwiftUI|Accepted|
