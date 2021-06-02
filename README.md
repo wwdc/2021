@@ -98,7 +98,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Ryan Du](https://github.com/ryendu) | [Github](https://github.com/ryendu/exploring-ml) |[Youtube](https://youtu.be/K9yRi89Ub5U)|SwiftUI, SpriteKit|Accepted|
 |[Ryan Rudes](https://github.com/Ryan-Rudes)|[GitHub](https://github.com/Ryan-Rudes/wwdc21)|[YouTube](https://www.youtube.com/watch?v=sLm7Xin9u0g)|SwiftUI, AVFoundation|Submitted|
 |[Sabesh Bharathi](https://github.com/programVeins)|[GitHub](https://github.com/programVeins/rubysdilemma)|[YouTube](https://www.youtube.com/watch?v=6KlwMRYOupk)|SwiftUI, AVFoundation, RealityKit, ARKit|Accepted|
-|[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/WWDC2021)||ARKit, SceneKit, AVFoundation, SwiftUI, UIKit|Accepted|
+|[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/WWDC2021)||ARKit, SceneKit, AVFoundation, SwiftUI|Accepted|
 |[Seunghun Yang](https://github.com/Yabby1997)|[GitHub](https://github.com/Yabby1997/WWDC21-Swift-Student-Challenge)|[YouTube](https://youtu.be/HVTCB2lDpjg)|SpriteKit, AVFoundation|Submitted|
 |[Shengjiu Shi](https://github.com/John-ssj)|[GitHub](https://github.com/John-ssj/WWDC2021)||UIKit, SpriteKit|Submitted|
 |[Shengyuan Lu](https://www.linkedin.com/in/shengyuan-lu)||[YouTube](https://youtu.be/dY1R0TIHwjY)|SwiftUI, ARKit, SceneKit, CoreMotion|Accepted|
