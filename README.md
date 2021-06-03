@@ -77,6 +77,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Kunal Bagaria](https://twitter.com/kb24x7)|[GitHub](https://github.com/kb24x7/wwdc-2021)||AVFoundation, SwiftUI|Rejected|
 |[Lambo Zhuang](https://github.com/Lambozhuang)|[GitHub](https://github.com/Lambozhuang/Playground_CameraSimulator)||UIKit|Accepted|
 |[Leon Zhao](https://github.com/Confucius52)| [GitHub](https://github.com/Confucius52/WWDC2021_submission)| |UIKit|Accepted|
+|[Lee Jaeho](https://github.com/jaeho0718)|[GitHub](https://github.com/jaeho0718/WWDC2021_Student_Challenge)||SpriteKit, UIKit, PlaygroundBook|Accepted|
 |[Liam Rosenfeld](https://twitter.com/liamrosenfeld)|[GitHub](https://github.com/liamrosenfeld/SeamCarving)||Metal, CoreGraphics, Accelerate, SwiftUI|Submitted|
 |[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/The-ADHD-Exploration-WWDC21)||SwiftUI, Combine, PhotosUI|Accepted|
 |[Makwan Barzan](https://twitter.com/makwanbk)|[GitHub](https://github.com/m1bki0n/Kazhe)||SwiftUI, AVFoundation|Submitted|
