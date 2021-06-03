@@ -19,6 +19,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |Sample Entry|[GitHub](https://github.com/wwdc/2021)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
 |[A. Alkan Caner](https://github.com/AlkanCaner)|[GitHub](https://github.com/AlkanCaner/StylizedArt)|[YouTube](https://www.youtube.com/watch?v=V2-lZlgsD1k&t=4s)|SwiftUI, CoreML|Submitted|
 |[Adam Zhao](https://github.com/ZXXZ00)||[YouTube](https://youtu.be/_wrRRgDcfdA)|Accelerate, PencilKit, UIKit|Submitted|
+|[Alan Yan](https://github.com/yan-alan)|[GitHub](https://github.com/yan-alan/Dance-Party)||Vision, AVFoundation, SwiftUI, UIKit|Accepted|
 |[Alperen Örence](https://github.com/alperenorence)|[GitHub](https://github.com/alperenorence/chatbots)||SwiftUI, Combine|Accepted|
 |[Alvin Hsueh](https://www.instagram.com/qazqwe0922/)|[GitHub](https://github.com/HaXAlvin/WWDC21_Hello_World)||SwiftUI, SpriteKit, ARKit, UIKit|Accepted|
 |[Anant Kanchan](https://github.com/anantcodes)|[GitHub](https://github.com/anantcodes/NaviOS)||SwiftUI|Accepted|
