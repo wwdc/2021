@@ -115,6 +115,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Swapnanil Dhol](https://github.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Inclusivity)|[YouTube](https://www.youtube.com/watch?v=ELeCD3yY7uU&t=7s)|Vision, SwiftUI, AVKit|Submitted|
 |[Sylvain Guillier](https://github.com/ElChoquito)||[YouTube](https://www.youtube.com/watch?v=MqWFkvcpAMk)|Vision, SwiftUI, AVFoundation|Accepted|
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Hands)||UIKit, AVFoundation, Vision|Rejected|
+|[Ufuk Köşker](https://github.com/ufukkosker)| [Line Tic Tac Toe](https://github.com/ufukkosker/LineTicTacToe)|[Line Tic Tac Toe](https://youtu.be/dYNNTnfAdK4)|SwiftUI, CoreMotion, CoreAnimation|Accepted|
 |[Viggo Overes](https://twitter.com/viggooveres)|[Github](https://github.com/vxvrs/wwdc21-CellularAutomaton)||UIKit|Submitted|
 |[Wenqing Ge](https://github.com/XiaoGeNintendo)|[Github](https://github.com/XiaoGeNintendo/MIST)||SwiftUI, SpriteKit|Rejected|
 |[Wenzheng "William" Du](https://insightfulaiapps.com)|[GitHub](https://github.com/InsightfulAI/recyclingrace)|[YouTube](https://youtu.be/5TcIQGhZ8oc)|CoreML, Vision, AVFoundation, UIKit|Accepted|
