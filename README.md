@@ -40,7 +40,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Corentin Medina](https://twitter.com/Elfyro)|[Github](https://github.com/CorentiOS/WWDC2021)|[Youtube](https://www.youtube.com/watch?v=IRqJCoCRcs4)|SpriteKit, GameplayKit, AVFoundation|Submitted|
 |[Cristian Garske](https://www.instagram.com/oddghostly/)|[Github](https://github.com/CristianGarske/WWDC21)|[Youtube](https://youtu.be/26w5qdg78_s)|SwiftUI|Accepted|
 |[David Knothe](https://github.com/knothed)|[GitHub](https://github.com/knothed/Symmetries)||Accelerate, CoreAnimation|Accepted|
-|[Davin Djayadi](https://github.com/davindj)|[GitHub](https://github.com/davindj)||SpriteKit, AVFoundation|Accepted|
+|[Davin Djayadi](https://github.com/davindj)|[GitHub](https://github.com/davindj/add-modulo)||SpriteKit, AVFoundation|Accepted|
 |[Deniz Karakay](https://twitter.com/KarakayDeniz)|[GitHub](https://github.com/dkarakay/wwdc-2021-perfec0)||SpriteKit, AVFoundation, SwiftUI, UIKit|Submitted|
 |[Derek Hsieh]|[GitHub](https://github.com/DerekHsiehDev/WWDC-2021.git)||AVFoundation, Natural Language, SwiftUI, CoreML, CreateML, AVSpeechSynthesizer|Accepted|
 |[Dhanraj Chavan](https://twitter.com/codingpotter)|[GitHub](https://github.com/dhanrajdc7/CryptoCam)|[YouTube](https://youtu.be/gMEdtcLDdGU)|UIKit, Vision, AVFoundation|Accepted|
