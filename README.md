@@ -59,6 +59,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Henri  Bredt](https://github.com/henribredt)|[GitHub](https://github.com/henribredt/UserExperience-WWDC21)||SwiftUI|Submitted|
 |[Hugo Lispector](https://hugolispector.com)||[YouTube](https://youtu.be/Vm2tvazcDwU)|SpriteKit|Accepted|
 |[Ibrahim Berat Kaya](https://github.com/iberatkaya)|[GitHub](https://github.com/iberatkaya/wwdc21)|[YouTube](https://www.youtube.com/watch?v=AhJjLU_ENXs)|SwiftUI|Accepted|
+|[Íris Soares](https://github.com/irixs)|[GitHub](https://github.com/irixs/irix-playground)|[YouTube](https://www.youtube.com/watch?v=rDYsMPE_YUs)|SwiftUI|Accepted|
 |[Ishan Chhabra](https://github.com/ishan-chhabra)|[GitHub](https://github.com/ishan-chhabra/spacewalk)|[YouTube](https://www.youtube.com/watch?v=lOLcMdaWx5s)|AVFoundation, SpriteKit|Accepted|
 |[Izabella Melo](https://github.com/izmcm)|[GitHub](https://github.com/izmcm/WhatIsSQLi)||SwiftUI|Accepted|
 |[Jan Luca Siewert](https://jl-siewert.de/about)|[GitHub](https://github.com/jlsiewert/SwiftAR)|[YouTube](https://youtu.be/3GeFRthFBs8)|ARKit, SceneKit, SwiftUI|Accepted|
