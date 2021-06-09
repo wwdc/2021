@@ -51,6 +51,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Filip Kania](https://github.com/filipkania)|[GitHub](https://github.com/filipkania/getout.)||SceneKit, AVFoundation, AppKit|Rejected|
 |[Fred P](https://github.com/fredpi)|[GitHub](https://github.com/fredpi/WWDC2021)||UIKit, Core Animation, Core Graphics|Accepted|
 |[Furkan Hancı](https://github.com/Furkanus)|[Github](https://github.com/Furkanus/BioShine)||SwiftUI|Rejected|
+|[Gabriel Muelas](https://github.com/MuelasU)|[Github](https://github.com/MuelasU/wwdc21-float-or-sink)|[YouTube](https://youtu.be/fin79NjjNHw)|SwiftUI|Accepted|
 |[Garima Bothra](https://github.com/garima94921)|[GitHub](https://github.com/garima94921/DoubleSpending-WWDC21)||CryptoKit, SwiftUI|Accepted|
 |[Garv Shah](https://github.com/garv-shah)|[GitHub](https://github.com/garv-shah/WWDC21-Galton-Board)||SpriteKit, UIKit|Accepted|
 |[Gokul R Nair](https://github.com/gokulnair2001)|[Github](https://github.com/gokulnair2001/WWDC_SSC_2021)||UIKit|Rejected|
