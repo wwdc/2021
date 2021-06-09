@@ -45,6 +45,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Deniz Karakay](https://twitter.com/KarakayDeniz)|[GitHub](https://github.com/dkarakay/wwdc-2021-perfec0)||SpriteKit, AVFoundation, SwiftUI, UIKit|Submitted|
 |[Derek Hsieh]|[GitHub](https://github.com/DerekHsiehDev/WWDC-2021.git)||AVFoundation, Natural Language, SwiftUI, CoreML, CreateML, AVSpeechSynthesizer|Accepted|
 |[Dhanraj Chavan](https://twitter.com/codingpotter)|[GitHub](https://github.com/dhanrajdc7/CryptoCam)|[YouTube](https://youtu.be/gMEdtcLDdGU)|UIKit, Vision, AVFoundation|Accepted|
+|[Djenifer R Pereira](https://github.com/djeni98)|[GitHub](https://github.com/djeni98/naipi-and-taroba)|[YouTube](https://www.youtube.com/watch?v=NP4XIpNLOc4)|SpriteKit|Accepted|
 |[Don Chia](https://donchia.tech)|[GitHub](https://github.com/dhs17y2adonchia/WWDC2021)||SwiftUI, UIKit, WKWebView|Accepted|
 |[Elaine Cruz](https://github.com/elainecruz)|[Github](https://github.com/elainecruz/WWDC21)||UIKit, RealityKit |Submitted|
 |[Erick Almeida](https://github.com/erick2280)|[GitHub](https://github.com/erick2280/dines-donkey-playground)||SwiftUI|Submitted|
