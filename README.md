@@ -115,7 +115,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Rodrigo Matos](https://github.com/Rudigus)|[GitHub](https://github.com/Rudigus/shaderland)||SceneKit, SpriteKit, UIKit|Submitted|
 |[Roy Rao](https://github.com/RoyRao2333)|[GitHub](https://github.com/RoyRao2333/WWDC21-Apple-Scholarship)||Cocoa, SwiftUI, Combine, AVKit|Submitted|
 |[Ryan Du](https://github.com/ryendu) | [Github](https://github.com/ryendu/exploring-ml) |[Youtube](https://youtu.be/K9yRi89Ub5U)|SwiftUI, SpriteKit|Accepted|
-|[Ryan Rudes](https://github.com/Ryan-Rudes)|[GitHub](https://github.com/Ryan-Rudes/wwdc21)|[YouTube](https://www.youtube.com/watch?v=sLm7Xin9u0g)|SwiftUI, AVFoundation|Submitted|
+|[Ryan Rudes](https://github.com/Ryan-Rudes)|[GitHub](https://github.com/Ryan-Rudes/wwdc21)|[YouTube](https://www.youtube.com/watch?v=sLm7Xin9u0g)|SwiftUI, AVFoundation|Rejected|
 |[Sabesh Bharathi](https://github.com/programVeins)|[GitHub](https://github.com/programVeins/rubysdilemma)|[YouTube](https://www.youtube.com/watch?v=6KlwMRYOupk)|SwiftUI, AVFoundation, RealityKit, ARKit|Accepted|
 |[Sai Ranga Reddy](https://github.com/irangareddy)|[GitHub](https://github.com/irangareddy/Carbon-Footprint)|[YouTube](https://youtu.be/4uh_Aet8dMM)|SwiftUI, AVKit, SceneKit|Accepted|
 |[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/WWDC2021)||ARKit, SceneKit, AVFoundation, SwiftUI|Accepted|
