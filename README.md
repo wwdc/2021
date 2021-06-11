@@ -122,6 +122,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Seunghun Yang](https://github.com/Yabby1997)|[GitHub](https://github.com/Yabby1997/WWDC21-Swift-Student-Challenge)|[YouTube](https://youtu.be/HVTCB2lDpjg)|SpriteKit, AVFoundation|Accepted|
 |[Shengjiu Shi](https://github.com/John-ssj)|[GitHub](https://github.com/John-ssj/WWDC2021)||UIKit, SpriteKit|Submitted|
 |[Shengyuan Lu](https://www.linkedin.com/in/shengyuan-lu)||[YouTube](https://youtu.be/dY1R0TIHwjY)|SwiftUI, ARKit, SceneKit, CoreMotion|Accepted|
+|[Stephen Fang](https://github.com/iamStephenFang)|[GitHub](https://github.com/iamStephenFang/KnowledgeGraph)||SwiftUI, AVKit|Accepted|
 |[Stvya Sharma](http://stvya.com)|[GitHub](https://github.com/StvyaSharma/Mini_Games)||UIKit, SpriteKit, AVFoundation, SwiftUI|Accepted|
 |[Subhronil Saha](https://github.com/subhronilsaha)|[GitHub](https://github.com/subhronilsaha/wwdc-21-submission)|[YouTube](https://www.youtube.com/watch?v=uFCORfnsnzw)|SwiftUI, AVKit|Submitted|
 |[Swapnanil Dhol](https://github.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Inclusivity)|[YouTube](https://www.youtube.com/watch?v=ELeCD3yY7uU)|Vision, SwiftUI, AVKit|Accepted|
