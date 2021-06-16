@@ -128,6 +128,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Swapnanil Dhol](https://github.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Inclusivity)|[YouTube](https://www.youtube.com/watch?v=ELeCD3yY7uU)|Vision, SwiftUI, AVKit|Accepted|
 |[Sylvain Guillier](https://github.com/ElChoquito)||[YouTube](https://www.youtube.com/watch?v=MqWFkvcpAMk)|Vision, SwiftUI, AVFoundation|Accepted|
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Hands)||UIKit, AVFoundation, Vision|Rejected|
+|[Tejas Mehta](https://github.com/tmthecoder)|[GitHub](https://github.com/tmthecoder/MultiCalcPlayground)||Vision, PencilKit, CoreGraphics, UIKit|Accepted|
 |[Thiago Nitschke Simões](https://github.com/thnitschke/)|[Github](https://github.com/thnitschke/WWDC21)||SwiftUI, NaturalLanguage|Accepted|
 |[Ufuk Köşker](https://github.com/ufukkosker)| [Line Tic Tac Toe](https://github.com/ufukkosker/LineTicTacToe)|[Line Tic Tac Toe](https://youtu.be/dYNNTnfAdK4)|SwiftUI, CoreMotion, CoreAnimation|Accepted|
 |[Victor Duarte](https://www.wwdcscholars.com/s/60EDB2C6-E766-4CB0-BAFF-9087B355E770)|[Github](https://github.com/vixtord/amazonia-wwdc21-playground)|[YouTube](https://www.youtube.com/watch?v=J8GnzilWF_g)|SwiftUI, UIKit, AVFoundation, AVKit|Accepted|
