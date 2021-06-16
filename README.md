@@ -96,7 +96,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Mason Dierkes](https://www.linkedin.com/in/mason-dierkes/)|[GitHub](https://github.com/mjdierkes/SkinCancers)|[YouTube](https://youtu.be/jaWeCtgJg_8)|SwiftUI|Accepted|
 |[Mateus Levi Fernandes](https://github.com/mateuslevisf)|[GitHub](https://github.com/mateuslevisf/wwdc21-compgraphics101)||SpriteKit|Accepted|
 |[Matheus S. Moreira](https://github.com/matheussmoreira)|[GitHub](https://github.com/matheussmoreira/Squance)||SwiftUI|Submitted|
-|[Matheus Andrade](https://github.com/matheusvtna)|[GitHub](https://github.com/matheusvtna/Mixed-Juice)||SwiftUI, AVKit|Submitted|
+|[Matheus Andrade](https://github.com/matheusvtna)|[GitHub](https://github.com/matheusvtna/Mixed-Juice)||SwiftUI, AVKit|Accepted|
 |[Matheus Gois](https://github.com/MaatheusGois)||[Youtube](https://youtu.be/_-NE_9EmK7c)|UIKit, SpriteKit|Accepted|
 |[Maxime Madrau](https://github.com/Maxmad68)|[GitHub](https://github.com/Maxmad68/Lightning-Simulator)||SpriteKit|Accepted|
 |[Mrinal Tyagi](https://github.com/MrinalTyagi)|[Github](https://github.com/MrinalTyagi/WWDC-2021-Swift-Challenge-Submission)||UIKit|Rejected|
