@@ -79,7 +79,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Julian Schiavo](https://twitter.com/_julianschiavo)|[GitHub](https://github.com/julianschiavo/wwdc/)||AVFoundation, CoreML, SwiftUI, Vision|Accepted|
 |[Juliano Vaz](https://www.github.com/julianoctvaz/)|[Github](https://www.github.com/julianoctvaz/jardimHarmonico)||UIKit, AVFoundation |Submitted|
 |[Jun (June) Murakami](https://github.com/juneforceone)|[GitHub](https://github.com/juneforceone/iRecognizer)|[YouTube](https://youtu.be/9_jidssBG9c)|SwiftUI, CoreML, ARKit|Submitted|
-|[Junaid Abdurahman](https://twitter.com/junaidxabd)||[YouTube](https://youtu.be/GUCHvjWpotY)|UIKit, CoreML, QuartzCore|Submitted|
+|[Junaid Abdurahman](https://twitter.com/junaidxabd)||[YouTube](https://youtu.be/GUCHvjWpotY)|UIKit, CoreML, QuartzCore|Accepted|
 |[Kee Meng](https://github.com/KeeMeng)|[GitHub](https://github.com/KeeMeng/swift-kaleidoscope)||UIKit|Accepted|
 |[Kenneth Chew](https://github.com/kthchew)|[GitHub](https://github.com/kthchew/wwdc21-combustion)||SpriteKit, SwiftUI|Accepted|
 |[Krish Jain](https://github.com/Krish-sysadmin)|[GitHub](https://github.com/Krish-sysadmin/WWDC2021)||UIKit, SpriteKit|Accepted|
