@@ -148,3 +148,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Zachary Lineman](https://actuallyzach.com)||[YouTube](https://www.youtube.com/watch?v=qPPdZWZiEEY)|SwiftUI, UIKit, Genetic Algorithms|Accepted|
 |[Zhiyu Zhu](https://github.com/ApolloZhu)|[GitHub](https://github.com/ApolloZhu/HearSee)||ARKit, RealityKit, SwiftUI, AVFoundation|Accepted|
 |[Zijian Zhao](https://github.com/JackZhao98)|[GitHub](https://github.com/JackZhao98/WWDC21)|[bilibili](https://b23.tv/vwZ9PM)|SwiftUI|Accepted|
+|[Varun Bhoir](https://github.com/varunBhoir)|[GitHub](https://github.com/varunBhoir/SwiftStudentChallenge2021-CoHealthAwareness)|[YouTube](https://www.youtube.com/watch?v=qaoJAVnAlFU)|SwiftUI, Combine|Accepted|
