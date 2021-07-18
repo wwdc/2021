@@ -133,6 +133,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Theo Caldas](https://github.com/TheoCaldas)|[GitHub](https://github.com/TheoCaldas/BoweBetterTalk-WWDC21)|[Youtube](https://youtu.be/7Y4D_xJ7EwU)|SpriteKit, AVFoundation, CoreMotion|Accepted|
 |[Thiago Nitschke Simões](https://github.com/thnitschke/)|[Github](https://github.com/thnitschke/WWDC21)||SwiftUI, NaturalLanguage|Accepted|
 |[Ufuk Köşker](https://github.com/ufukkosker)| [Line Tic Tac Toe](https://github.com/ufukkosker/LineTicTacToe)|[Line Tic Tac Toe](https://youtu.be/dYNNTnfAdK4)|SwiftUI, CoreMotion, CoreAnimation|Accepted|
+|[Varun Bhoir](https://github.com/varunBhoir)|[GitHub](https://github.com/varunBhoir/SwiftStudentChallenge2021-CoHealthAwareness)|[YouTube](https://www.youtube.com/watch?v=qaoJAVnAlFU)|SwiftUI, Combine|Accepted|
 |[Victor Duarte](https://www.wwdcscholars.com/s/60EDB2C6-E766-4CB0-BAFF-9087B355E770)|[Github](https://github.com/vixtord/amazonia-wwdc21-playground)|[YouTube](https://www.youtube.com/watch?v=J8GnzilWF_g)|SwiftUI, UIKit, AVFoundation, AVKit|Accepted|
 |[Viggo Overes](https://twitter.com/viggooveres)|[Github](https://github.com/vxvrs/wwdc21-CellularAutomaton)||UIKit|Submitted|
 |[Wenqing Ge](https://github.com/XiaoGeNintendo)|[Github](https://github.com/XiaoGeNintendo/MIST)||SwiftUI, SpriteKit|Rejected|
