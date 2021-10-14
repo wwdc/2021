@@ -135,6 +135,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Ufuk Köşker](https://github.com/ufukkosker)| [Line Tic Tac Toe](https://github.com/ufukkosker/LineTicTacToe)|[Line Tic Tac Toe](https://youtu.be/dYNNTnfAdK4)|SwiftUI, CoreMotion, CoreAnimation|Accepted|
 |[Varun Bhoir](https://github.com/varunBhoir)|[GitHub](https://github.com/varunBhoir/SwiftStudentChallenge2021-CoHealthAwareness)|[YouTube](https://www.youtube.com/watch?v=qaoJAVnAlFU)|SwiftUI, Combine|Accepted|
 |[Victor Duarte](https://www.wwdcscholars.com/s/60EDB2C6-E766-4CB0-BAFF-9087B355E770)|[Github](https://github.com/vixtord/amazonia-wwdc21-playground)|[YouTube](https://www.youtube.com/watch?v=J8GnzilWF_g)|SwiftUI, UIKit, AVFoundation, AVKit|Accepted|
+|[Vitor Grechi Kuninari](https://www.wwdcscholars.com/s/32CD09B0-46A3-4D89-A10F-AF9984766715)|[GitHub](https://github.com/VitorGK/WWDC21-Swift-Student-Challenge)||UIKit, SpriteKit|Accepted|
 |[Viggo Overes](https://twitter.com/viggooveres)|[Github](https://github.com/vxvrs/wwdc21-CellularAutomaton)||UIKit|Submitted|
 |[Wenqing Ge](https://github.com/XiaoGeNintendo)|[Github](https://github.com/XiaoGeNintendo/MIST)||SwiftUI, SpriteKit|Rejected|
 |[Wenzheng "William" Du](https://insightfulaiapps.com)|[GitHub](https://github.com/InsightfulAI/recyclingrace)|[YouTube](https://youtu.be/5TcIQGhZ8oc)|CoreML, Vision, AVFoundation, UIKit|Accepted|
