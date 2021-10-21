@@ -39,6 +39,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Choyi Jeong](https://github.com/iamcho2)|[Github](https://github.com/iamcho2/WWDC-2021)||SwiftUI, SpriteKit|Submitted|
 |[Corentin Medina](https://twitter.com/Elfyro)|[Github](https://github.com/CorentiOS/WWDC2021)|[Youtube](https://www.youtube.com/watch?v=IRqJCoCRcs4)|SpriteKit, GameplayKit, AVFoundation|Submitted|
 |[Cristian Garske](https://www.instagram.com/oddghostly/)|[Github](https://github.com/CristianGarske/WWDC21)|[Youtube](https://youtu.be/26w5qdg78_s)|SwiftUI|Accepted|
+|[Daniel Heidemann](https://github.com/danielheidemann)|[GitHub](https://github.com/danielheidemann/quantumwhat)|[YouTube](https://youtu.be/C1zP9It0yIg)|SpriteKit, UIKit|Accepted|
 |[Darshil Agrawal](https://twitter.com/agrawal_darshil)|[GitHub](https://github.com/darshilagrawal/WWDC2021-Submission-Accepted-)||CrytpoKit,SwiftUI|Accepted|
 |[David Knothe](https://github.com/knothed)|[GitHub](https://github.com/knothed/Symmetries)||Accelerate, CoreAnimation|Accepted|
 |[Davin Djayadi](https://github.com/davindj)|[GitHub](https://github.com/davindj/add-modulo)||SpriteKit, AVFoundation|Accepted|
