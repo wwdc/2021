@@ -68,6 +68,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Íris Soares](https://github.com/irixs)|[GitHub](https://github.com/irixs/irix-playground)|[YouTube](https://www.youtube.com/watch?v=rDYsMPE_YUs)|SwiftUI|Accepted|
 |[Ishan Chhabra](https://github.com/ishan-chhabra)|[GitHub](https://github.com/ishan-chhabra/spacewalk)|[YouTube](https://www.youtube.com/watch?v=lOLcMdaWx5s)|AVFoundation, SpriteKit|Accepted|
 |[Izabella Melo](https://github.com/izmcm)|[GitHub](https://github.com/izmcm/WhatIsSQLi)||SwiftUI|Accepted|
+|[Jakub Florek](https://github.com/MAJKFL)|[GitHub](https://github.com/MAJKFL/Wonderful_Icons-WWDC21)|[YouTube](https://youtu.be/6VkkqBUv13s)| SwiftUI, UIKit, Combine, AVFoundation|Accepted|
 |[Jan Luca Siewert](https://jl-siewert.de/about)|[GitHub](https://github.com/jlsiewert/SwiftAR)|[YouTube](https://youtu.be/3GeFRthFBs8)|ARKit, SceneKit, SwiftUI|Accepted|
 |[Javier Gallo Roca](https://twitter.com/Happygallo)|[GitHub](https://github.com/Happygallo/LangtonsAnt.git)|[YouTube](https://youtu.be/gCRG00CTZCo)|SpriteKIt, SwiftUI|Rejected|
 |[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/wwdc21explorer)||SceneKit, UIKit, SwiftUI, Natural Language|Accepted|
