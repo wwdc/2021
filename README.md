@@ -141,6 +141,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Viggo Overes](https://twitter.com/viggooveres)|[Github](https://github.com/vxvrs/wwdc21-CellularAutomaton)||UIKit|Submitted|
 |[Wenqing Ge](https://github.com/XiaoGeNintendo)|[Github](https://github.com/XiaoGeNintendo/MIST)||SwiftUI, SpriteKit|Rejected|
 |[Wenzheng "William" Du](https://insightfulaiapps.com)|[GitHub](https://github.com/InsightfulAI/recyclingrace)|[YouTube](https://youtu.be/5TcIQGhZ8oc)|CoreML, Vision, AVFoundation, UIKit|Accepted|
+|[William Laverty](https://www.canberratimes.com.au/story/7292158/13-year-old-self-taught-coder-wins-international-competition/)||[Github](https://github.com/William-Laverty/Fetch)|SpriteKit, AVAudioKit, SwiftUI|Accepted|
 |[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/G6KYe352l7I)|SceneKit, UIKit, ARKit, SwiftUI|Accepted|
 |[Xinyi Xiang](https://github.com/xinyixiang)|[GitHub](https://github.com/xinyixiang/Rubikat)||SwiftUI, Foundation,Combine|Accepted|
 |[Ya Zou](https://github.com/ZouYa99)|[GitHub](https://github.com/ZouYa99/PitchBlock)|[YouTube](https://youtu.be/15ncJPaBK2M)|Accelerate, UIKit, SpriteKit, AVFoundation|Accepted|
