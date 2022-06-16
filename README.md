@@ -102,6 +102,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Matheus S. Moreira](https://github.com/matheussmoreira)|[GitHub](https://github.com/matheussmoreira/Squance)||SwiftUI|Submitted|
 |[Matheus Gois](https://github.com/MaatheusGois)||[Youtube](https://youtu.be/_-NE_9EmK7c)|UIKit, SpriteKit|Accepted|
 |[Maxime Madrau](https://github.com/Maxmad68)|[GitHub](https://github.com/Maxmad68/Lightning-Simulator)||SpriteKit|Accepted|
+|[Mehdi Hussain](https://github.com/mehdihdev)|[GitHub](https://github.com/mehdihdev/WWDC2021)|[YouTube](https://youtu.be/T32k8JW4J0g)|UIKit, SpriteKit, SceneKit|Accepted|
 |[Mrinal Tyagi](https://github.com/MrinalTyagi)|[Github](https://github.com/MrinalTyagi/WWDC-2021-Swift-Challenge-Submission)||UIKit|Rejected|
 |[Murilo Gonçalves](https://github.com/murilo-goncalves)|[GitHub](https://github.com/murilo-goncalves/WWDC2021-VSSS)||SpriteKit|Accepted|
 |[Nathaniel Fargo](https://paradox42.tech)|[Github](https://github.com/theParadox42/Relativity)||SpriteKit, SceneKit|Accepted|
