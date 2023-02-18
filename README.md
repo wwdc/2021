@@ -101,6 +101,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Matheus Andrade](https://github.com/matheusvtna)|[GitHub](https://github.com/matheusvtna/Mixed-Juice)||SwiftUI, AVKit|Accepted|
 |[Matheus S. Moreira](https://github.com/matheussmoreira)|[GitHub](https://github.com/matheussmoreira/Squance)||SwiftUI|Submitted|
 |[Matheus Gois](https://github.com/MaatheusGois)||[Youtube](https://youtu.be/_-NE_9EmK7c)|UIKit, SpriteKit|Accepted|
+|[Matheus Homrich](https://github.com/matheushomrich)||[GitHub](https://github.com/matheushomrich/GoodMorningSwiftyWWDC2021)|SwiftUI|Submitted|
 |[Maxime Madrau](https://github.com/Maxmad68)|[GitHub](https://github.com/Maxmad68/Lightning-Simulator)||SpriteKit|Accepted|
 |[Mehdi Hussain](https://github.com/mehdihdev)|[GitHub](https://github.com/mehdihdev/WWDC2021)|[YouTube](https://youtu.be/T32k8JW4J0g)|UIKit, SpriteKit, SceneKit|Accepted|
 |[Mrinal Tyagi](https://github.com/MrinalTyagi)|[Github](https://github.com/MrinalTyagi/WWDC-2021-Swift-Challenge-Submission)||UIKit|Rejected|
