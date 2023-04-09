@@ -91,6 +91,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Leon Zhao](https://github.com/Confucius52)| [GitHub](https://github.com/Confucius52/WWDC2021_submission)| |UIKit|Accepted|
 |[Lee Jaeho](https://github.com/jaeho0718)|[GitHub](https://github.com/jaeho0718/WWDC2021_Student_Challenge)||SpriteKit, UIKit, PlaygroundBook|Accepted|
 |[Liam Rosenfeld](https://twitter.com/liamrosenfeld)|[GitHub](https://github.com/liamrosenfeld/SeamCarving)||Metal, CoreGraphics, Accelerate, SwiftUI|Submitted|
+|[Lucas Wang](https://github.com/Lucas-ZX-W)||[Github](https://github.com/Lucas-ZX-W/apple_silicon_history)|ARKit, SwiftUI|Accepted|
 |[Luis Genesius](https://github.com/lgenesius)|[GitHub](https://github.com/lgenesius/unity-in-diversity-wwdc21)||UIKit, AVFoundation, AVSpeechSynthesizer|Accepted|
 |[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/The-ADHD-Exploration-WWDC21)||SwiftUI, Combine, PhotosUI|Accepted|
 |[Maiara Martins](https://github.com/MaiaraM)|[GitHub](https://github.com/MaiaraM/WWDC21-Ballet)|[Youtube](https://youtu.be/tkAKTPRCCf8)|SpriteKit, AVSpeechUtterance,AVSpeechSynthesizer,AVPlayer,UIKit|Accepted|
