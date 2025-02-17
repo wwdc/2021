@@ -10,7 +10,7 @@
 import Foundation
 
 // MARK: - Constants
-let year = 2022
+let year = 2021
 let name = "Swift Student Challenge"
 
 let templateFileName = "Template.md"
