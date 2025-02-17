@@ -1,10 +1,10 @@
-# WWDC 2022 - Swift Student Challenge
-![WWDC2022 Logo](logo.png)
+# WWDC 2021 - Swift Student Challenge
+![WWDC2021 Logo](logo.png)
 
-List of student submissions for the WWDC 2022 - Swift Student Challenge.
+List of student submissions for the WWDC 2021 - Swift Student Challenge.
 
 ### How to add your submission?
-1. [Click here](https://github.com/wwdc/2022/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
+1. [Click here](https://github.com/wwdc/2021/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
 2. Fill out the document based on the example in the comment below.
 3. Make a new Pull Request and wait for the review.
 
