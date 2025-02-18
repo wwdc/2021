@@ -1,9 +1,9 @@
-Name: Lucas Wang
-Status: Accepted
-Technologies: UIKit, AVFoundation, AVSpeechSynthesizer
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/Lucas-ZX-W
-SourceUrl: https://github.com/Lucas-ZX-W/apple_silicon_history
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
