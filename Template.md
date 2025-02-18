@@ -1,9 +1,9 @@
-Name: Matheus Homrich
-Status: Submitted
-Technologies: SwiftUI
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/matheushomrich
-SourceUrl: https://github.com/matheushomrich/GoodMorningSwiftyWWDC2021
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
