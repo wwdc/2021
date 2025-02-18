@@ -87,6 +87,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Lee Jaeho](https://github.com/jaeho0718)|[GitHub](https://github.com/jaeho0718/WWDC2021_Student_Challenge)|-|SpriteKit, UIKit, PlaygroundBook|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Leon Zhao](https://github.com/Confucius52)|[GitHub](https://github.com/Confucius52/WWDC2021_submission)|-|UIKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Liam Rosenfeld](https://twitter.com/liamrosenfeld)|[GitHub](https://github.com/liamrosenfeld/SeamCarving)|-|Metal, CoreGraphics, Accelerate, SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Lucas Wang](https://github.com/Lucas-ZX-W)|[GitHub](https://github.com/Lucas-ZX-W/apple_silicon_history)|-|UIKit, AVFoundation, AVSpeechSynthesizer|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Luis Genesius](https://github.com/lgenesius)|[GitHub](https://github.com/lgenesius/unity-in-diversity-wwdc21)|-|UIKit, AVFoundation, AVSpeechSynthesizer|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/The-ADHD-Exploration-WWDC21)|-|SwiftUI, Combine, PhotosUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Maiara Martins](https://github.com/MaiaraM)|[GitHub](https://github.com/MaiaraM/WWDC21-Ballet)|[YouTube](https://youtu.be/tkAKTPRCCf8)|SpriteKit, AVSpeechUtterance, AVSpeechSynthesizer, AVPlayer, UIKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -155,4 +156,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Derek Hsieh]|[GitHub](https://github.com/DerekHsiehDev/WWDC-2021.git)|-|AVFoundation, Natural Language, SwiftUI, CoreML, CreateML, AVSpeechSynthesizer|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Íris Soares](https://github.com/irixs)|[GitHub](https://github.com/irixs/irix-playground)|[YouTube](https://www.youtube.com/watch?v=rDYsMPE_YUs)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 
-##### Total: 139 | Accepted: 97
+##### Total: 140 | Accepted: 98
