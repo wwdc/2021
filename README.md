@@ -97,6 +97,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Mateus Levi Fernandes](https://github.com/mateuslevisf)|[GitHub](https://github.com/mateuslevisf/wwdc21-compgraphics101)|-|SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Matheus Andrade](https://github.com/matheusvtna)|[GitHub](https://github.com/matheusvtna/Mixed-Juice)|-|SwiftUI, AVKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Matheus Gois](https://github.com/MaatheusGois)|-|[YouTube](https://youtu.be/_-NE_9EmK7c)|UIKit, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Matheus Homrich](https://github.com/matheushomrich)|[GitHub](https://github.com/matheushomrich/GoodMorningSwiftyWWDC2021)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Matheus S. Moreira](https://github.com/matheussmoreira)|[GitHub](https://github.com/matheussmoreira/Squance)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Maxime Madrau](https://github.com/Maxmad68)|[GitHub](https://github.com/Maxmad68/Lightning-Simulator)|-|SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Mehdi Hussain](https://github.com/mehdihdev)|[GitHub](https://github.com/mehdihdev/WWDC2021)|[YouTube](https://youtu.be/T32k8JW4J0g)|UIKit, SpriteKit, SceneKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -156,4 +157,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Derek Hsieh]|[GitHub](https://github.com/DerekHsiehDev/WWDC-2021.git)|-|AVFoundation, Natural Language, SwiftUI, CoreML, CreateML, AVSpeechSynthesizer|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Íris Soares](https://github.com/irixs)|[GitHub](https://github.com/irixs/irix-playground)|[YouTube](https://www.youtube.com/watch?v=rDYsMPE_YUs)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 
-##### Total: 140 | Accepted: 99
+##### Total: 141 | Accepted: 99
