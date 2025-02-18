@@ -124,7 +124,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/WWDC2021)|-|ARKit, SceneKit, AVFoundation, SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Seunghun Yang](https://github.com/Yabby1997)|[GitHub](https://github.com/Yabby1997/WWDC21-Swift-Student-Challenge)|[YouTube](https://youtu.be/HVTCB2lDpjg)|SpriteKit, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Shaun Ku](https://github.com/Grotion)|[GitHub](https://github.com/Grotion/2021WWDC_Swift-Student-Challenge_Time-Flies)|[YouTube](https://youtu.be/k0bBiF7P3lc)|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
-|[Shengjiu Shi](https://github.com/John-ssj)|[GitHub](https://github.com/John-ssj/WWDC2021)|-|UIKit, SpriteKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Shengjiu Shi](https://github.com/John-ssj)|[GitHub](https://github.com/John-ssj/WWDC2021)|-|UIKit, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Shengyuan Lu](https://www.linkedin.com/in/shengyuan-lu)|-|[YouTube](https://youtu.be/dY1R0TIHwjY)|SwiftUI, ARKit, SceneKit, CoreMotion|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Stephen Fang](https://github.com/iamStephenFang)|[GitHub](https://github.com/iamStephenFang/KnowledgeGraph)|-|SwiftUI, AVKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Stvya Sharma](http://stvya.com)|[GitHub](https://github.com/StvyaSharma/Mini_Games)|-|UIKit, SpriteKit, AVFoundation, SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -156,4 +156,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Derek Hsieh]|[GitHub](https://github.com/DerekHsiehDev/WWDC-2021.git)|-|AVFoundation, Natural Language, SwiftUI, CoreML, CreateML, AVSpeechSynthesizer|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Íris Soares](https://github.com/irixs)|[GitHub](https://github.com/irixs/irix-playground)|[YouTube](https://www.youtube.com/watch?v=rDYsMPE_YUs)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 
-##### Total: 140 | Accepted: 98
+##### Total: 140 | Accepted: 99
