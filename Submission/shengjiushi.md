@@ -1,10 +1,10 @@
 Name: Shengjiu Shi
-Status: Submitted
+Status: Accepted
 Technologies: UIKit, SpriteKit
 
 AboutMeUrl: https://github.com/John-ssj
 SourceUrl: https://github.com/John-ssj/WWDC2021
-VideoUrl: 
+VideoUrl:
 
 <!---
 EXAMPLE
