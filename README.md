@@ -156,4 +156,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Derek Hsieh]|[GitHub](https://github.com/DerekHsiehDev/WWDC-2021.git)|-|AVFoundation, Natural Language, SwiftUI, CoreML, CreateML, AVSpeechSynthesizer|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Íris Soares](https://github.com/irixs)|[GitHub](https://github.com/irixs/irix-playground)|[YouTube](https://www.youtube.com/watch?v=rDYsMPE_YUs)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 
-##### Total: 141 | Accepted: 99
+##### Total: 140 | Accepted: 98
