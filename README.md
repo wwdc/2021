@@ -14,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2021/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
 |:--|:--|:--|
 | \[Derek Hsieh\] | [GitHub](https://github.com/DerekHsiehDev/WWDC-2021.git)<br><sub>AVFoundation, NaturalLanguage, SwiftUI, CoreML +2</sub> | ![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge) |
 | [A. Alkan Caner](https://github.com/AlkanCaner) | [GitHub](https://github.com/AlkanCaner/StylizedArt) · [Video](https://www.youtube.com/watch?v=V2-lZlgsD1k&t=4s)<br><sub>SwiftUI, CoreML</sub> | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
