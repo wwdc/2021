@@ -1,5 +1,5 @@
 Name: [Derek Hsieh]
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: AVFoundation, NaturalLanguage, SwiftUI, CoreML, CreateML, AVSpeechSynthesizer
 

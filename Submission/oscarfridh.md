@@ -1,5 +1,5 @@
 Name: Oscar Fridh
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SpriteKit
 

@@ -1,5 +1,5 @@
 Name: Zachary Lineman
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, UIKit, Genetic Algorithms
 

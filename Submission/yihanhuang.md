@@ -1,5 +1,5 @@
 Name: Yihan Huang
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, SceneKit, CoreData, CoreText
 

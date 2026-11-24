@@ -1,5 +1,5 @@
 Name: Andrew Z
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, ARKit, Vision
 

@@ -1,5 +1,5 @@
 Name: Frederico Lacis
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI
 

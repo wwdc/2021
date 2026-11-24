@@ -1,5 +1,5 @@
 Name: Ufuk Köşker
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, CoreMotion, CoreAnimation
 

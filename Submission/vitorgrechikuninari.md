@@ -1,5 +1,5 @@
 Name: Vitor Grechi Kuninari
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: UIKit, SpriteKit
 

@@ -1,5 +1,5 @@
 Name: Hugo Lispector
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SpriteKit
 

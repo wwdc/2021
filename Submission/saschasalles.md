@@ -1,5 +1,5 @@
 Name: Sascha Salles
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: ARKit, SceneKit, AVFoundation, SwiftUI
 

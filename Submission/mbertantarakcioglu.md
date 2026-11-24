@@ -1,5 +1,5 @@
 Name: M. Bertan Tarakçıoğlu
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, Combine, PhotosUI
 

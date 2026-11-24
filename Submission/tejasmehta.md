@@ -1,5 +1,5 @@
 Name: Tejas Mehta
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: Vision, PencilKit, CoreGraphics, UIKit
 

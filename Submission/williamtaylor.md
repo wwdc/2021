@@ -1,5 +1,5 @@
 Name: William Taylor
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SceneKit, UIKit, ARKit, SwiftUI
 

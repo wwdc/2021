@@ -1,5 +1,5 @@
 Name: Íris Soares
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI
 

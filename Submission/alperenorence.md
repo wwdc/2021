@@ -1,5 +1,5 @@
 Name: Alperen Örence
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, Combine
 

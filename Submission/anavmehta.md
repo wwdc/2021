@@ -1,5 +1,5 @@
 Name: Anav Mehta
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: RealityKit, AVKit, RealityComposer
 

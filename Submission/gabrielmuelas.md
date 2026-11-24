@@ -1,5 +1,5 @@
 Name: Gabriel Muelas
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI
 

@@ -1,5 +1,5 @@
 Name: Federico Ciardi
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SceneKit, SpriteKit, AVFoundation, Combine
 

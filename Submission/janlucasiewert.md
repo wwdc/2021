@@ -1,5 +1,5 @@
 Name: Jan Luca Siewert
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: ARKit, SceneKit, SwiftUI
 

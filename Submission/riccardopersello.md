@@ -1,5 +1,5 @@
 Name: Riccardo Persello
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: Accelerate
 

@@ -1,5 +1,5 @@
 Name: Izabella Melo
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI
 

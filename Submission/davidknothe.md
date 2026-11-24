@@ -1,5 +1,5 @@
 Name: David Knothe
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: Accelerate, CoreAnimation
 
