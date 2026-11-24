@@ -1,5 +1,5 @@
 Name: Shengyuan Lu
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, ARKit, SceneKit, CoreMotion
 

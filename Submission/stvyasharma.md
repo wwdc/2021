@@ -1,5 +1,5 @@
 Name: Stvya Sharma
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: UIKit, SpriteKit, AVFoundation, SwiftUI
 

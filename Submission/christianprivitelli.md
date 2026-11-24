@@ -1,5 +1,5 @@
 Name: Christian Privitelli
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, SceneKit, ARKit
 

@@ -1,5 +1,5 @@
 Name: Ibrahim Berat Kaya
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI
 

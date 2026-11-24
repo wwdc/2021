@@ -23,7 +23,7 @@ body:
       description: "What happened to your submission?"
       options:
         - Submitted
-        - Accepted
+        - Winner
         - Rejected
       default: 0
     validations:

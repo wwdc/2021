@@ -1,5 +1,5 @@
 Name: Sylvain Guillier
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: Vision, SwiftUI, AVFoundation
 

@@ -1,5 +1,5 @@
 Name: Henri Bredt
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI
 

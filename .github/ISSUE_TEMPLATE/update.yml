@@ -22,7 +22,7 @@ body:
       options:
         - No change
         - Submitted
-        - Accepted
+        - Winner
         - Rejected
       default: 0
   - type: input

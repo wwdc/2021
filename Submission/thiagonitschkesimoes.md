@@ -1,5 +1,5 @@
 Name: Thiago Nitschke Simões
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, NaturalLanguage
 

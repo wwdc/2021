@@ -1,5 +1,5 @@
 Name: Junaid Abdurahman
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: UIKit, CoreML, QuartzCore
 

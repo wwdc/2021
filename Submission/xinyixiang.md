@@ -1,5 +1,5 @@
 Name: Xinyi Xiang
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, Foundation, Combine
 

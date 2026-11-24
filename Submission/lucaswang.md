@@ -1,5 +1,5 @@
 Name: Lucas Wang
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: UIKit, AVFoundation, AVSpeechSynthesizer
 
