@@ -1,5 +1,5 @@
 Name: Wenzheng "William" Du
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: CoreML, Vision, AVFoundation, UIKit
 

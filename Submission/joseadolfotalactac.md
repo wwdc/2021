@@ -1,5 +1,5 @@
 Name: Jose Adolfo Talactac
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, Accelerate, RealityKit, ARKit
 

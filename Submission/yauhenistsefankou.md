@@ -1,5 +1,5 @@
 Name: Yauheni Stsefankou
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SceneKit
 

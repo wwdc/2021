@@ -1,5 +1,5 @@
 Name: Richard Qi Zhi
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: CryptoKit, SpriteKit, SwiftUI
 

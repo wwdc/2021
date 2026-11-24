@@ -1,5 +1,5 @@
 Name: Alan Yan
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: Vision, AVFoundation, SwiftUI, UIKit
 

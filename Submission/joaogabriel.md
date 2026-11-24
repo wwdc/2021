@@ -1,5 +1,5 @@
 Name: João Gabriel
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, AVFoundation
 

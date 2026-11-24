@@ -1,5 +1,5 @@
 Name: Cristian Garske
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI
 

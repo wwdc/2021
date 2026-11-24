@@ -1,5 +1,5 @@
 Name: Jakub Florek
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, UIKit, Combine, AVFoundation
 

@@ -1,5 +1,5 @@
 Name: Alvin Hsueh
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, SpriteKit, ARKit, UIKit
 

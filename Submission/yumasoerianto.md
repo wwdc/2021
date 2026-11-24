@@ -1,5 +1,5 @@
 Name: Yuma Soerianto
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: ARKit, SceneKit, SwiftUI, UIKit, CoreML
 

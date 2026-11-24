@@ -1,5 +1,5 @@
 Name: Gustavo Tatarem
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SpriteKit, AVFoundation
 

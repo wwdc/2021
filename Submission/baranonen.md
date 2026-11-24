@@ -1,5 +1,5 @@
 Name: Baran Önen
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, SpriteKit
 

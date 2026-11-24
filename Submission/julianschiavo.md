@@ -1,5 +1,5 @@
 Name: Julian Schiavo
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: AVFoundation, CoreML, SwiftUI, Vision
 

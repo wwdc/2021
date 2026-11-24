@@ -1,5 +1,5 @@
 Name: Julian Benedikt Heuschen
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: SwiftUI, Security, CryptoKit, CommonCrypto
 

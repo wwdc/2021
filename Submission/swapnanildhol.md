@@ -1,5 +1,5 @@
 Name: Swapnanil Dhol
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: Vision, SwiftUI, AVKit
 

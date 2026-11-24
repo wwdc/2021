@@ -1,5 +1,5 @@
 Name: Ozan Mirza
-Status: Accepted
+Status: Winner
 ProjectTitle: 
 Technologies: UIKit, CoreGraphics, Accelerate
 
